@@ -1,8 +1,10 @@
 # Angular9 App
 
-Run below two command to update from Angular 8 to 9 in your angular workspace:
-1.ng update @angular/core@8 @angular/cli@8
-2.ng update @angular/core @angular/cli
+Run below two commands into your angular workspace to update your app from Angular 8 to 9 
+
+ng update @angular/core@8 @angular/cli@8
+
+ng update @angular/core @angular/cli
 
 after successful update you can see the below message in your terminal.
 
