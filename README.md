@@ -1,4 +1,4 @@
-# Angular9 App
+# Angular 9 App
 
 Run below two commands into your angular workspace to update your app from Angular 8 to 9 
 
